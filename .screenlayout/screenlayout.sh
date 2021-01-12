@@ -1,3 +1,5 @@
+# This script changes the outputs to match a dual-screen setup. Will require tweaking for my personal use.
+
 #!/bin/sh
 xrandr \
 	--output DVI-D-0 --pos 0x0 --mode 1920x1080 \
